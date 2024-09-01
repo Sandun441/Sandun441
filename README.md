@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sandun Liyanage 👋
 
-I'm a passionate [Your Profession] from [Your Location].
+I'm a passionate Software Engineer (UD) specializing in software development.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
@@ -17,6 +17,6 @@ I'm a passionate [Your Profession] from [Your Location].
 - [Another Project](https://github.com/yourusername/anotherproject) - Brief description.
 
 ## 📫 Contact Me
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](www.linkedin.com/in/sandun-bandara-1477212a7)
+- [Twitter]([https://twitter.com/yourusername](https://x.com/sandunLiyanage_?t=fadSv_M8vNSePi9EO2IrqQ&s=08))
+- [Email](sandunhhhh90@gmail.com)

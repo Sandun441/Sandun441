@@ -1,6 +1,6 @@
 # Hi there, I'm Sandun Liyanage 👋
 
-I'm a passionate Software Engineer (UD) specializing in software development.
+I'm a passionate Software Engineer (UG) specializing in software development.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
 

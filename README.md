@@ -13,8 +13,8 @@ I'm a Software Engineer (UD) from Sri Lanka.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 💼 Top Projects
-- [Project Name](https://github.com/yourusername/projectname) - Brief description.
-- [Another Project](https://github.com/yourusername/anotherproject) - Brief description.
+- [Bravos](https://github.com/yourusername/projectname) - Brief description.
+- [Open sassme](https://github.com/yourusername/anotherproject) - Brief description.
 
 ## 📫 Contact Me
 - [LinkedIn](www.linkedin.com/in/sandun-bandara-1477212a7)

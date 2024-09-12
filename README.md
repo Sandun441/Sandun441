@@ -17,6 +17,6 @@ I'm a passionate Software Engineering Student (UD)  from Sri Lanka.
 - [Another Project](https://github.com/yourusername/anotherproject) - Brief description.
 
 ## 📫 Contact Me
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](www.linkedin.com/in/sandun-bandara-1477212a7)
+- [Twitter]((https://x.com/sandunLiyanage_?t=fadSv_M8vNSePi9EO2IrqQ&s=08))
+- [Email](mailto:sandunhhh90@gmail.com)

@@ -1,6 +1,6 @@
 # Hi there, I'm Sandun 👋
 
-I'm a Software Engineer (UD) from Sri Lanka.
+I'm a Software Engineer (UG) from Sri Lanka.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 

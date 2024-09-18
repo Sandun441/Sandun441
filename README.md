@@ -17,7 +17,7 @@ I'm a Software Engineer (UG) from Sri Lanka.
 - [Bravos](https://github.com/yourusername/projectname) - Brief description.
 - [Open sassme](https://github.com/yourusername/anotherproject) - Brief description.
 
-## 📫 Contact M
+## 📫 Contact Me
 - [LinkedIn](www.linkedin.com/in/sandun-bandara-1477212a7)
 - [Twitter]((https://x.com/sandunLiyanage_?t=fadSv_M8vNSePi9EO2IrqQ&s=08))
 - [Email](mailto:sandunhhh90@gmail.com)

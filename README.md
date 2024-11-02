@@ -51,7 +51,7 @@ Connect with me on social media!
 ## 📜 Featured Projects
 
 ###  [My Portfolio](https://github.com/Sandun441/travel-agency)
-A comprehensive platform for booking and managing travel.
+This is my Portfolio.
 
 ###  [Social Media Platform](https://github.com/Sandun441/social-media-platform)
 A new social media platform focusing on user engagement.

@@ -49,15 +49,10 @@ Connect with me on social media!
 
 ## 📜 Featured Projects
 
-### ✈️ [Travel Agency Website](https://github.com/Sandun441/travel-agency)
+###  [My Portfolio](https://github.com/Sandun441/travel-agency)
 A comprehensive platform for booking and managing travel.
 
-### 🎁 [Online Gift Box Store](https://github.com/Sandun441/gift-box-store)
-An innovative e-commerce site for personalized gift box creation.
-
-### 🌐 [Social Media Platform](https://github.com/Sandun441/social-media-platform)
+###  [Social Media Platform](https://github.com/Sandun441/social-media-platform)
 A new social media platform focusing on user engagement.
 
 ---
-
-Thank you for checking out my profile! I am always open to collaboration, new ideas, and opportunities to learn. Let's connect!

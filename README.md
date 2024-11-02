@@ -19,14 +19,14 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ## 🌍 My Technical Skills
 
 ### Programming Languages
-| Language      | Proficiency |
-|---------------|-------------|
-| Python        | ![Progress](https://progress-bar.dev/40) |
-| JavaScript    | ![Progress](https://progress-bar.dev/25) |
-| C             | ![Progress](https://progress-bar.dev/15) |
-| C++           | ![Progress](https://progress-bar.dev/10) |
-| Java          | ![Progress](https://progress-bar.dev/5)  |
-| SQL           | ![Progress](https://progress-bar.dev/5)  |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-40%25-3670A0?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-15%25-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-10%25-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-5%25-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-5%25-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 
 ### Web Development
 - **HTML5**

@@ -1,17 +1,18 @@
 # Hi there 👋, I'm Sandun Liyanage
 
-I'm an undergraduate Software Engineer from the Open University of Sri Lanka, constantly exploring and innovating in the world of technology.
+I'm an undergraduate Software Engineer from the Open University of Sri Lanka, with a passion for creating impactful projects and continuously enhancing my skills in software development.
 
 ---
 
-### 👨‍💻 About Me
+### 🌟 Achievements & Highlights
 
-- 🧑‍🎓 Undergraduate Software Engineer at **Open University of Sri Lanka**
-- 🔭 Working on:
-  - **Travel Agency Website** with CodeIgniter
-  - **Online Gift Box Store** with customizable features
-  - My own **Social Media Platform**
-- 🌱 Improving skills in **Backend** and **Full-Stack Development**
+- 🏆 **Contributions**: Actively contributing to open-source projects and personal repositories to enhance my skills and help the community.
+- 💼 **Projects**:
+  - **Travel Agency Website**: Developed a booking and travel management website using CodeIgniter.
+  - **Online Gift Box Store**: Building a customizable gift box e-commerce platform.
+  - **Social Media Platform**: Currently working on creating a unique social media experience.
+- 📜 **Languages & Tools**: Skilled in Python, JavaScript, C, C++, PHP, Java, SQL, and frameworks like React, Django, and Spring Boot.
+- 🎓 **Education**: Pursuing a degree in Software Engineering at the Open University of Sri Lanka.
 
 ---
 
@@ -49,4 +50,4 @@ I'm an undergraduate Software Engineer from the Open University of Sri Lanka, co
 - **[Gift Box Store](https://github.com/Sandun441/gift-box-store)**: An e-commerce platform for custom gift boxes.
 - **[Social Media Platform](https://github.com/Sandun441/social-media-platform)**: A project in progress for a new social media experience.
 
-Thanks for visiting! Feel free to check out my repositories for my latest work!
+Thank you for visiting my profile! I’m always open to collaboration, learning opportunities, and challenges.

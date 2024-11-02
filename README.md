@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandun441&show_icons=true&theme=tokyonight)
 <h3 align="left">Most Used Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandun441&layout=compact&theme=radical" alt="Most Used Languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandun441&layout=compact&theme=default" alt="Most Used Languages" /></p>.
 
 
 ---

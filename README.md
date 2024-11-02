@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 Connect with me on social media!
 - **[LinkedIn](https://www.linkedin.com/in/sandun-bandara-1477212a7/)**
-- **[Twitter](https://twitter.com/SandunLiyanage)**
+- **[Twitter](https://x.com/sandunLiyanage_?t=gbx28SIhKg11LwObIMmn6g&s=09)**
 
 ---
 

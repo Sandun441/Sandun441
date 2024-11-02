@@ -1,24 +1,23 @@
-# Hi there 👋, I'm Sandun Liyanage
+# 👋 Hello! I'm Sandun Liyanage
 
-I'm an undergraduate Software Engineer from the Open University of Sri Lanka, passionate about building impactful software solutions and enhancing my expertise in technology.
+I'm an **Undergraduate Software Engineer** at the Open University of Sri Lanka, driven by a passion for crafting innovative solutions and growing my expertise in technology. Welcome to my GitHub profile!
 
 ---
 
-### 🌟 Achievements & Highlights
+## 🌟 Achievements & Highlights
 
-- **🎓 Education**: Pursuing a degree in Software Engineering at **Open University of Sri Lanka**
-- **💼 Projects**:
-  - **[Travel Agency Website](https://github.com/Sandun441/travel-agency)**: A booking and travel management platform built with CodeIgniter.
-  - **[Online Gift Box Store](https://github.com/Sandun441/gift-box-store)**: A customizable gift box e-commerce website in development.
-  - **[Social Media Platform](https://github.com/Sandun441/social-media-platform)**: Building a unique platform to enhance user connections.
-- **🌱 Skills**:
+- 🎓 **Education**: Studying Software Engineering at **Open University of Sri Lanka**
+- 💼 **Notable Projects**:
+  - **[Travel Agency Website](https://github.com/Sandun441/travel-agency)**: Created a dynamic platform for booking and travel management using CodeIgniter.
+  - **[Online Gift Box Store](https://github.com/Sandun441/gift-box-store)**: Building a customizable gift box e-commerce site for personalized shopping.
+  - **[Social Media Platform](https://github.com/Sandun441/social-media-platform)**: Developing a unique platform aimed at enhancing user interactions.
+- 🌱 **Technical Skills**:
   - Languages: Python, JavaScript, C, C++, PHP, Java, SQL
-  - Web Development: HTML, CSS, React, Django, Spring Boot
-  - Tools: Docker, VS Code, Git & GitHub
+  - Frameworks & Tools: React, Django, Spring Boot, Docker, VS Code, Git & GitHub
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -35,7 +34,7 @@ I'm an undergraduate Software Engineer from the Open University of Sri Lanka, pa
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandun441&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
@@ -44,7 +43,7 @@ I'm an undergraduate Software Engineer from the Open University of Sri Lanka, pa
 
 ---
 
-### 🌐 Connect with Me
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandun-liyanage">
@@ -57,12 +56,17 @@ I'm an undergraduate Software Engineer from the Open University of Sri Lanka, pa
 
 ---
 
-### 📜 Featured Projects
+## 📜 Featured Projects
 
-- **[Travel Agency Website](https://github.com/Sandun441/travel-agency)**: A CodeIgniter-based web app for travel booking and management.
-- **[Gift Box Store](https://github.com/Sandun441/gift-box-store)**: E-commerce platform for customizable gift boxes.
-- **[Social Media Platform](https://github.com/Sandun441/social-media-platform)**: A new social platform for user engagement.
+### ✈️ [Travel Agency Website](https://github.com/Sandun441/travel-agency)
+A feature-rich, CodeIgniter-based platform enabling users to book and manage travel services.
+
+### 🎁 [Online Gift Box Store](https://github.com/Sandun441/gift-box-store)
+An e-commerce site allowing users to create and purchase custom gift boxes, offering a unique and personal shopping experience.
+
+### 🌐 [Social Media Platform](https://github.com/Sandun441/social-media-platform)
+A new social platform currently in development, designed to foster engaging user connections and interactions.
 
 ---
 
-Thank you for visiting my profile! I’m always open to new collaborations and learning opportunities. Feel free to explore my repositories and connect with me!
+Thank you for visiting my profile! I’m always open to collaborations, new ideas, and opportunities to learn and grow. Feel free to explore my repositories and get in touch if you'd like to work together!

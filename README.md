@@ -19,28 +19,26 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ## 🌍 My Technical Skills
 
 ### Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-40%25-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-15%25-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-10%25-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-5%25-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-5%25-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-</p>
+- Python
+- JavaScript
+- C
+- C++
+- Java
+- SQL
 
 ### Web Development
-- **HTML5**
-- **CSS3**
-- **React**
-- **Django**
-- **Spring Boot**
-- **CodeIgniter**
+- HTML5
+- CSS3
+- React
+- Django
+- Spring Boot
+- CodeIgniter
 
 ### Tools & Technologies
-- **Docker**
-- **Visual Studio Code**
-- **Git**
-- **GitHub**
+- Docker
+- Visual Studio Code
+- Git
+- GitHub
 
 ---
 

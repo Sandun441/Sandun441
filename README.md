@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ## 📫 Get in Touch
 
 Connect with me on social media!
-- **[LinkedIn](https://www.linkedin.com/in/sandun-liyanage)**
+- **[LinkedIn](https://www.linkedin.com/in/sandun-bandara-1477212a7/)**
 - **[Twitter](https://twitter.com/SandunLiyanage)**
 
 ---

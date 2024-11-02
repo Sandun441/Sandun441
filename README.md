@@ -1,17 +1,17 @@
 # Hi there 👋, I'm Sandun Liyanage
 
-I'm a passionate Software Engineering undergraduate at the Open University of Sri Lanka, constantly exploring and building in the world of technology. I love working with code, creating impactful projects, and expanding my knowledge in software engineering.
+I'm an undergraduate Software Engineer from the Open University of Sri Lanka, constantly exploring and innovating in the world of technology.
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🧑‍🎓 Undergraduate Software Engineer at **Open University of Sri Lanka**
-- 🔭 Currently working on:
-  - A **Travel Agency website** with CodeIgniter
-  - An **online gift box store** with customizable features
-  - My own **social media platform**
-- 🌱 Learning and improving my skills in **Backend Development** and **Full-Stack Development**
+- 🔭 Working on:
+  - **Travel Agency Website** with CodeIgniter
+  - **Online Gift Box Store** with customizable features
+  - My own **Social Media Platform**
+- 🌱 Improving skills in **Backend** and **Full-Stack Development**
 
 ---
 
@@ -19,14 +19,20 @@ I'm a passionate Software Engineering undergraduate at the Open University of Sr
 
 - **Languages:** Python, JavaScript, C, C++, PHP, Java, SQL
 - **Web Development:** HTML, CSS, React, Django, Spring Boot
-- **Tools:** Docker, VS Code, Android Studio, Git & GitHub
+- **Tools:** Docker, VS Code, Git & GitHub
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![Sandun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandun-Liyanage&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandun-Liyanage&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandun-Liyanage&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sandun-Liyanage&theme=dracula)
 
 ---
 
@@ -39,8 +45,8 @@ I'm a passionate Software Engineering undergraduate at the Open University of Sr
 
 ### 📜 Recent Projects
 
-- **[Travel Agency Website](https://github.com/yourusername/travel-agency)**: A CodeIgniter-based web application for booking and travel management.
-- **[Gift Box Store](https://github.com/yourusername/gift-box-store)**: An e-commerce platform allowing custom gift box creations.
-- **[Social Media Platform](https://github.com/yourusername/social-media-platform)**: A project in progress for creating a new social media experience.
+- **[Travel Agency Website](https://github.com/Sandun-Liyanage/travel-agency)**: A CodeIgniter-based web app for booking and travel management.
+- **[Gift Box Store](https://github.com/Sandun-Liyanage/gift-box-store)**: An e-commerce platform for custom gift boxes.
+- **[Social Media Platform](https://github.com/Sandun-Liyanage/social-media-platform)**: A project in progress for a new social media experience.
 
-Thanks for visiting! Feel free to reach out or check out my repositories for my latest work!
+Thanks for visiting! Feel free to check out my repositories for my latest work!

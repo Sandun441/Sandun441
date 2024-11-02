@@ -35,9 +35,14 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandun441&show_icons=true&theme=tokyonight)
-<h3 align="left">Most Used Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandun441&layout=compact&theme=default" alt="Most Used Languages" /></p>.
 
+<h3 align="left">Most Used Languages:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandun441&layout=compact&theme=tokyonight" alt="Most Used Languages" /></p>
+
+---
+
+## 🏆 GitHub Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sandun441&theme=tokyonight&no-frame=true&row=1&column=4)
 
 ---
 

@@ -7,15 +7,6 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ---
 
-## 🏆 Achievements
-- **Education**: Pursuing a degree in Software Engineering
-- **Projects**:
-  - **[Travel Agency Website](https://github.com/Sandun441/travel-agency)**: Developed a platform for booking and travel management.
-  - **[Online Gift Box Store](https://github.com/Sandun441/gift-box-store)**: Creating an e-commerce site for customizable gift boxes.
-  - **[Social Media Platform](https://github.com/Sandun441/social-media-platform)**: A project aimed at enhancing online interactions.
-
----
-
 ## 🌍 My Technical Skills
 
 ### Programming Languages

@@ -30,7 +30,7 @@
 `Python` `Java` `JavaScript` `SQL` `C` `HTML` `PHP` `CSS`
 
 #### 🔹 Frameworks / Libraries:
-`React.js` `React Native` `Vue.js` `Express.js` `Tailwind CSS` `Bootstrap`
+`React.js` `React Native` `Vue.js` `Express.js` `Tailwind CSS` `Bootstrap` `Node.js` `MongoDB`
 
 #### 🔹 Tools & Platforms:
 `Figma` `PhotoShop` `IntelliJ IDEA` `Git` `VS Code` `Android Studio` `Postman`  

@@ -59,7 +59,7 @@ My first full-stack web application, built using the MERN stack.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandun441&show_icons=true&theme=radical" alt="Sandun's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandun441&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sandun441&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandun441&layout=compact&theme=radical" alt="Top Languages" />
 </p>

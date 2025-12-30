@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://Sandun441.github.io/Portfolio/" target="_blank">
+  <a href="https://sandunliyanage.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Click_Here-green?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sandun-bandara-1477212a7" target="_blank">

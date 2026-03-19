@@ -56,14 +56,6 @@ A personal portfolio website to showcase my software projects, skills, and resum
 
 ---
 
-### 🏆 Badges & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandun441&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ### ✨ Quote
 
 > "Code is like humor. When you have to explain it, it’s bad." – *Cory House*

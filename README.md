@@ -19,8 +19,11 @@
 ---
 
 ### 📍 Location:
-**Kegalle, Sri Lanka**  
+**Colombo, Sri Lanka**  
 📧 **Email:** sandunhhh90@gmail.com
+**[My Portfolio]**  
+A personal portfolio website to showcase my software projects, skills, and resume.  
+🔗 [Live Demo](https://www.sandunliyanage.site/)
 
 ---
 
@@ -39,18 +42,6 @@
 #### 🔹 Concepts:
 `Object-Oriented Programming` `Data Structures & Algorithms`  
 `Agile / Scrum` `RESTful API Development`
-
----
-
-### 🚀 Featured Projects
-
-📌 **[My Portfolio](https://github.com/Sandun441/Portfolio)**  
-A personal portfolio website to showcase my software projects, skills, and resume.  
-🔗 [Live Demo](https://Sandun441.github.io/Portfolio/)
-
-📌 **[OpenSocialM](https://github.com/Sandun441/OpenSocialM)**  
-My first full-stack web application, built using the MERN stack.  
-🔗 [Live Demo](https://open-social-m.vercel.app/)
 
 ---
 
